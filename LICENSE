@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 YSX
+Copyright (c) 2022 Filippo Airaldi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Additional contributions and modifications made in this repository:
+Copyright (c) 2025 YSX
+
+This repository extends and modifies the original work, including:
+- Integration of the Cell Transmission Model (CTM)
+- Modification of the METANET Model
+
+These contributions are also licensed under the MIT License.
